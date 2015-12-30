@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LearnMod",
+  "name": "Learn Mod",
+  "description": "I`m learning Forge Minecraft 1.8.9",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Freeload80"
+  ],
+  "credits": "To Pahimar and MineMaarten",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
